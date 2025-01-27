@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
+## Database
+|  |
+| ------- |
+| [1523-capital-gainloss](https://github.com/abhinav0223/Leetcode/tree/master/1523-capital-gainloss) |
 <!---LeetCode Topics End-->
