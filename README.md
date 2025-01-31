@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/abhinav0223/Leetcode/tree/master/0584-find-customer-referee) |
 | [1523-capital-gainloss](https://github.com/abhinav0223/Leetcode/tree/master/1523-capital-gainloss) |
 ## Stack
 |  |
