@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 ## Database
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search Tree
 |  |
