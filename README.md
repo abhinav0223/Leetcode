@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
