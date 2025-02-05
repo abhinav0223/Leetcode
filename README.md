@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
