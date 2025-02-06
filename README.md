@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
+| [0575-distribute-candies](https://github.com/abhinav0223/Leetcode/tree/master/0575-distribute-candies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
@@ -116,4 +117,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/abhinav0223/Leetcode/tree/master/0575-distribute-candies) |
 <!---LeetCode Topics End-->
