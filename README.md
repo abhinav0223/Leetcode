@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Database
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/abhinav0223/Leetcode/tree/master/0575-distribute-candies) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
