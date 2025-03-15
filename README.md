@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/abhinav0223/Leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/abhinav0223/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/abhinav0223/Leetcode/tree/master/0506-relative-ranks) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/abhinav0223/Leetcode/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Simulation
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/abhinav0223/Leetcode/tree/master/0575-distribute-candies) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -142,5 +147,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/abhinav0223/Leetcode/tree/master/0506-relative-ranks) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
