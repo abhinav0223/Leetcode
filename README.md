@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhinav0223/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/abhinav0223/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinav0223/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
