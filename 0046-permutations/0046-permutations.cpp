@@ -6,9 +6,9 @@ public:
             return;
         }
         for (int i = start; i < nums.size(); i++) {
-            swap(nums[start], nums[i]);  // Swap to create a new permutation
+            swap(nums[start], nums[i]); 
             backtrack(nums, result, start + 1);
-            swap(nums[start], nums[i]);  // Backtrack (restore original order)
+            swap(nums[start], nums[i]);
         }
     }
 
