@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0046-permutations](https://github.com/abhinav0223/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/abhinav0223/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinav0223/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/abhinav0223/Leetcode/tree/master/0377-combination-sum-iv) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
