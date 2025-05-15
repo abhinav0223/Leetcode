@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Depth-First Search
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## Two Pointers
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 ## Math
 |  |
 | ------- |
