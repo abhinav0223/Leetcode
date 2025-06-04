@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/abhinav0223/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav0223/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav0223/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
