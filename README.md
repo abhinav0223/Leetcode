@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -304,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhinav0223/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
