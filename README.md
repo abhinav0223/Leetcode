@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhinav0223/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0728-self-dividing-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhinav0223/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhinav0223/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
