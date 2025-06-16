@@ -5,7 +5,7 @@ public:
         int minval=nums[0];
         int maxdiff=-1;
 
-        for(int i=1;i<nums.size();++i){
+        for(int i=1;i<nums.size();i++){
             if(nums[i]>minval){
                 maxdiff=max(maxdiff,nums[i]-minval);
 
