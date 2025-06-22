@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhinav0223/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Counting
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/abhinav0223/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhinav0223/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Hash Table
 |  |
 | ------- |
