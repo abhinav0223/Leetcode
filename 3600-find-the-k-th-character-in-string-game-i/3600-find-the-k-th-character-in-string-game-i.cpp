@@ -11,6 +11,6 @@ public:
             word += temp;
         }
 
-        return word[k - 1]; // since indexing is 0-based
+        return word[k - 1]; 
     }
 };
