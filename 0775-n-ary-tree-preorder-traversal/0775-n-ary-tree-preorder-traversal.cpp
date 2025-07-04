@@ -31,8 +31,6 @@ public:
             Node* curr = stk.top();
             stk.pop();
             result.push_back(curr->val);
-
-            // Push children in reverse order so that leftmost child is processed first
             for (int i = curr->children.size() - 1; i >= 0; i--) {
                 stk.push(curr->children[i]);
             }
