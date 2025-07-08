@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinav0223/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhinav0223/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/abhinav0223/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhinav0223/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
