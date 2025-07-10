@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0135-candy](https://github.com/abhinav0223/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/abhinav0223/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav0223/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/abhinav0223/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/abhinav0223/Leetcode/tree/master/0260-single-number-iii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/abhinav0223/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/abhinav0223/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/abhinav0223/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhinav0223/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
