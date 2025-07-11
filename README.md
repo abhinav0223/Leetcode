@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/abhinav0223/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav0223/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/abhinav0223/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/abhinav0223/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/abhinav0223/Leetcode/tree/master/0229-majority-element-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/abhinav0223/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/abhinav0223/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhinav0223/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/abhinav0223/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhinav0223/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abhinav0223/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinav0223/Leetcode/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/abhinav0223/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/abhinav0223/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhinav0223/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/abhinav0223/Leetcode/tree/master/0292-nim-game) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinav0223/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
