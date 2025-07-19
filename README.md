@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhinav0223/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Binary Tree
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhinav0223/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## String Matching
 |  |
 | ------- |
