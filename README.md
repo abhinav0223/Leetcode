@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0575-distribute-candies](https://github.com/abhinav0223/Leetcode/tree/master/0575-distribute-candies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinav0223/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/abhinav0223/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Database
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0357-count-numbers-with-unique-digits](https://github.com/abhinav0223/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/abhinav0223/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhinav0223/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
 | [1276-closest-divisors](https://github.com/abhinav0223/Leetcode/tree/master/1276-closest-divisors) |
