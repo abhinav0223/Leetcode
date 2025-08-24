@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhinav0223/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhinav0223/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhinav0223/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Merge Sort
