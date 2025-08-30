@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/abhinav0223/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/abhinav0223/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/abhinav0223/Leetcode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/abhinav0223/Leetcode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/abhinav0223/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/abhinav0223/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/abhinav0223/Leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhinav0223/Leetcode/tree/master/0229-majority-element-ii) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abhinav0223/Leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/abhinav0223/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinav0223/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/abhinav0223/Leetcode/tree/master/0498-diagonal-traverse) |
