@@ -14,8 +14,6 @@ public:
 
                 int Ax = points[i][0], Ay = points[i][1];
                 int Bx = points[j][0], By = points[j][1];
-
-                // A must be upper-left of B
                 if (Ax <= Bx && Ay >= By) {
                     bool valid = true;
 
@@ -23,14 +21,14 @@ public:
                         if (k == i || k == j) continue;
                         int Cx = points[k][0], Cy = points[k][1];
 
-                        // Check if point k lies inside/on rectangle A-B
+                        
                         if (isInside(Cx, Cy, Ax, Ay, Bx, By)) {
                             valid = false;
                             break;
                         }
                     }
 
-                    if (valid) count++;
+                    if(valid) count++;
                 }
             }
         }
