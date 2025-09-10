@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/abhinav0223/Leetcode/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/abhinav0223/Leetcode/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/abhinav0223/Leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/abhinav0223/Leetcode/tree/master/0184-department-highest-salary) |
