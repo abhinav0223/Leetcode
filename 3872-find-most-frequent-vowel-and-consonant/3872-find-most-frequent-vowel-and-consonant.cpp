@@ -1,7 +1,7 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        int freq[26];
+        int freq[26]={0};
         int maxV=0;
         int maxC=0;
         for(char c:s){
