@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-maximum-difference-between-increasing-elements](https://github.com/abhinav0223/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhinav0223/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhinav0223/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhinav0223/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0775-n-ary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhinav0223/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhinav0223/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinav0223/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhinav0223/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/abhinav0223/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhinav0223/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -560,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhinav0223/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
