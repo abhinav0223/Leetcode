@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhinav0223/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/abhinav0223/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -575,8 +577,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
