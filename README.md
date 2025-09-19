@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhinav0223/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhinav0223/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2887-sort-vowels-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/abhinav0223/Leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhinav0223/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhinav0223/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhinav0223/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhinav0223/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Enumeration
 |  |
 | ------- |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Ordered Set
 |  |
 | ------- |
