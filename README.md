@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1603-running-sum-of-1d-array](https://github.com/abhinav0223/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhinav0223/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/abhinav0223/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Probability and Statistics
 |  |
