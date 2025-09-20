@@ -12,7 +12,6 @@ public:
             result.push_back(current);
             return;
         }
-
         for (int i = start; i <= n; ++i) {
             current.push_back(i);
             backtrack(i + 1, n, k, current, result);
