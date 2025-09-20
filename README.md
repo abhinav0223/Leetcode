@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3748-sort-matrix-by-diagonals](https://github.com/abhinav0223/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhinav0223/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhinav0223/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
@@ -585,9 +589,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
