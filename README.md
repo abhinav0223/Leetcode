@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinav0223/Leetcode/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhinav0223/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/abhinav0223/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/abhinav0223/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhinav0223/Leetcode/tree/master/0268-missing-number) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/abhinav0223/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhinav0223/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/abhinav0223/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/abhinav0223/Leetcode/tree/master/0299-bulls-and-cows) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/abhinav0223/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinav0223/Leetcode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/abhinav0223/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/abhinav0223/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/abhinav0223/Leetcode/tree/master/0268-missing-number) |
