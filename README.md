@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/abhinav0223/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/abhinav0223/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav0223/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/abhinav0223/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/abhinav0223/Leetcode/tree/master/0137-single-number-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/abhinav0223/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/abhinav0223/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/abhinav0223/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhinav0223/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/abhinav0223/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/abhinav0223/Leetcode/tree/master/0300-longest-increasing-subsequence) |
