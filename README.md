@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav0223/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/abhinav0223/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
 | [1276-closest-divisors](https://github.com/abhinav0223/Leetcode/tree/master/1276-closest-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhinav0223/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/abhinav0223/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinav0223/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Queue
