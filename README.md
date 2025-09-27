@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/abhinav0223/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinav0223/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhinav0223/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/abhinav0223/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhinav0223/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abhinav0223/Leetcode/tree/master/0292-nim-game) |
+| [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhinav0223/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhinav0223/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/3462-vowels-game-in-a-string) |
