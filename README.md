@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/abhinav0223/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhinav0223/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinav0223/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/abhinav0223/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav0223/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
+| [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1276-closest-divisors](https://github.com/abhinav0223/Leetcode/tree/master/1276-closest-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/abhinav0223/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/abhinav0223/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
