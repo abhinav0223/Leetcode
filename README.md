@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhinav0223/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhinav0223/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinav0223/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhinav0223/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/abhinav0223/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [2048-build-array-from-permutation](https://github.com/abhinav0223/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhinav0223/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhinav0223/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhinav0223/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/abhinav0223/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Union Find
 |  |
