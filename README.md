@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0129-sum-root-to-leaf-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/abhinav0223/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Brainteaser
 |  |
