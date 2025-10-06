@@ -7,7 +7,7 @@ public:
         for(i=0;i<n;i++){
             int cnt=0;
             if(ls.size()==0 || ls[0]!=nums[i]){
-                
+            
                 for(j=0;j<n;j++){
                     if(nums[j]==nums[i]){
                         cnt++;
