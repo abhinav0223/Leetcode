@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav0223/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0824-number-of-lines-to-write-string](https://github.com/abhinav0223/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0841-shortest-distance-to-a-character](https://github.com/abhinav0223/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhinav0223/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/abhinav0223/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0841-shortest-distance-to-a-character](https://github.com/abhinav0223/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0500-keyboard-row](https://github.com/abhinav0223/Leetcode/tree/master/0500-keyboard-row) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhinav0223/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0824-number-of-lines-to-write-string](https://github.com/abhinav0223/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/abhinav0223/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [1006-vowel-spellchecker](https://github.com/abhinav0223/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/abhinav0223/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
