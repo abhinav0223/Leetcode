@@ -20,7 +20,6 @@ public:
         dp[0] = sumAtVal[0];
 
         for (int i = 1; i < n; ++i) {
-            // binary search for last index j where vals[j] <= vals[i] - 3
             int j = upper_bound(vals.begin(), vals.begin() + i, vals[i] - 3) - vals.begin() - 1;
             long long take = sumAtVal[i] + (j >= 0 ? dp[j] : 0LL);
             long long skip = dp[i - 1];
