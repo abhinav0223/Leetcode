@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0871-keys-and-rooms](https://github.com/abhinav0223/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhinav0223/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/abhinav0223/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0871-keys-and-rooms](https://github.com/abhinav0223/Leetcode/tree/master/0871-keys-and-rooms) |
 ## Brainteaser
 |  |
 | ------- |
@@ -702,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/abhinav0223/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
