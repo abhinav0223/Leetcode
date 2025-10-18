@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhinav0223/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhinav0223/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhinav0223/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhinav0223/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhinav0223/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhinav0223/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhinav0223/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinav0223/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhinav0223/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhinav0223/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Backtracking
 |  |
