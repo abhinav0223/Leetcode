@@ -5,11 +5,9 @@ public:
 
         for (int p : nums) {
             int best = INT_MAX;
-
-            // Try removing each set bit
             for (int b = 0; b <= 31; b++) {
                 if (p & (1 << b)) {
-                    int x = p ^ (1 << b);  // turn off bit b
+                    int x = p ^ (1 << b); 
                     if ( (x | (x + 1)) == p ) {
                         best = min(best, x);
                     }
