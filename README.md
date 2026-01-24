@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1628-count-submatrices-with-all-ones](https://github.com/abhinav0223/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/abhinav0223/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinav0223/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhinav0223/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinav0223/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhinav0223/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhinav0223/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhinav0223/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/abhinav0223/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0841-shortest-distance-to-a-character](https://github.com/abhinav0223/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
