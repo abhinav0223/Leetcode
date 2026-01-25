@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-largest-magic-square](https://github.com/abhinav0223/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinav0223/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhinav0223/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhinav0223/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/abhinav0223/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/abhinav0223/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhinav0223/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhinav0223/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhinav0223/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhinav0223/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
