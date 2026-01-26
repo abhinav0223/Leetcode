@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/abhinav0223/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/abhinav0223/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav0223/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhinav0223/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhinav0223/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/abhinav0223/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav0223/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
