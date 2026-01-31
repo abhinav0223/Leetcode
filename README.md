@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav0223/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0824-number-of-lines-to-write-string](https://github.com/abhinav0223/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/abhinav0223/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinav0223/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/abhinav0223/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/abhinav0223/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav0223/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
