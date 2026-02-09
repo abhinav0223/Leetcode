@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav0223/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/abhinav0223/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0775-n-ary-tree-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhinav0223/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Depth-First Search
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0871-keys-and-rooms](https://github.com/abhinav0223/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/abhinav0223/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhinav0223/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/abhinav0223/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 ## Binary Tree
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhinav0223/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/abhinav0223/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
