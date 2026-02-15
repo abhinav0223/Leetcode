@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhinav0223/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/abhinav0223/Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav0223/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinav0223/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abhinav0223/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/abhinav0223/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/abhinav0223/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/abhinav0223/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/abhinav0223/Leetcode/tree/master/0189-rotate-array) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhinav0223/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/abhinav0223/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/abhinav0223/Leetcode/tree/master/0067-add-binary) |
 | [0131-palindrome-partitioning](https://github.com/abhinav0223/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/abhinav0223/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/abhinav0223/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/abhinav0223/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/abhinav0223/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/abhinav0223/Leetcode/tree/master/1642-water-bottles) |
