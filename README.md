@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/abhinav0223/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/abhinav0223/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/abhinav0223/Leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/abhinav0223/Leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/abhinav0223/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/abhinav0223/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/abhinav0223/Leetcode/tree/master/0268-missing-number) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhinav0223/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/abhinav0223/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/abhinav0223/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/abhinav0223/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhinav0223/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/abhinav0223/Leetcode/tree/master/0654-maximum-binary-tree) |
