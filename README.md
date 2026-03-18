@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhinav0223/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinav0223/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhinav0223/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhinav0223/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinav0223/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhinav0223/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -727,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhinav0223/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/abhinav0223/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhinav0223/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhinav0223/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhinav0223/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhinav0223/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1895-largest-magic-square](https://github.com/abhinav0223/Leetcode/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhinav0223/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinav0223/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Probability and Statistics
