@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/abhinav0223/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/abhinav0223/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2887-sort-vowels-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/abhinav0223/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3396-valid-word](https://github.com/abhinav0223/Leetcode/tree/master/3396-valid-word) |
