@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhinav0223/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/abhinav0223/Leetcode/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhinav0223/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/abhinav0223/Leetcode/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhinav0223/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhinav0223/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhinav0223/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhinav0223/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhinav0223/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhinav0223/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/abhinav0223/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhinav0223/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhinav0223/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhinav0223/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
