@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0824-number-of-lines-to-write-string](https://github.com/abhinav0223/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0841-shortest-distance-to-a-character](https://github.com/abhinav0223/Leetcode/tree/master/0841-shortest-distance-to-a-character) |
+| [0874-walking-robot-simulation](https://github.com/abhinav0223/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0498-diagonal-traverse](https://github.com/abhinav0223/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/abhinav0223/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/abhinav0223/Leetcode/tree/master/0682-baseball-game) |
+| [0874-walking-robot-simulation](https://github.com/abhinav0223/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/abhinav0223/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/abhinav0223/Leetcode/tree/master/1642-water-bottles) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/abhinav0223/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/abhinav0223/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/abhinav0223/Leetcode/tree/master/0575-distribute-candies) |
+| [0874-walking-robot-simulation](https://github.com/abhinav0223/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0929-groups-of-special-equivalent-strings](https://github.com/abhinav0223/Leetcode/tree/master/0929-groups-of-special-equivalent-strings) |
 | [0940-fruit-into-baskets](https://github.com/abhinav0223/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/abhinav0223/Leetcode/tree/master/1006-vowel-spellchecker) |
