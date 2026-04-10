@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/abhinav0223/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinav0223/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/abhinav0223/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhinav0223/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhinav0223/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/abhinav0223/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/abhinav0223/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3678-design-task-manager](https://github.com/abhinav0223/Leetcode/tree/master/3678-design-task-manager) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinav0223/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinav0223/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhinav0223/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/abhinav0223/Leetcode/tree/master/3827-implement-router) |
