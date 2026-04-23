@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhinav0223/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhinav0223/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/abhinav0223/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhinav0223/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhinav0223/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -864,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhinav0223/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/abhinav0223/Leetcode/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/abhinav0223/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/abhinav0223/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
