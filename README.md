@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/abhinav0223/Leetcode/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/abhinav0223/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhinav0223/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhinav0223/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinav0223/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/abhinav0223/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhinav0223/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhinav0223/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/abhinav0223/Leetcode/tree/master/3453-separate-squares-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/abhinav0223/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhinav0223/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/abhinav0223/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhinav0223/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
 | [3462-vowels-game-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhinav0223/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhinav0223/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhinav0223/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -888,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/abhinav0223/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/abhinav0223/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinav0223/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Queue
 |  |
 | ------- |
