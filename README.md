@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/abhinav0223/Leetcode/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/abhinav0223/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhinav0223/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0788-rotated-digits](https://github.com/abhinav0223/Leetcode/tree/master/0788-rotated-digits) |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav0223/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhinav0223/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0679-24-game](https://github.com/abhinav0223/Leetcode/tree/master/0679-24-game) |
 | [0728-self-dividing-numbers](https://github.com/abhinav0223/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/abhinav0223/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/abhinav0223/Leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/abhinav0223/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/abhinav0223/Leetcode/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/abhinav0223/Leetcode/tree/master/1018-largest-perimeter-triangle) |
