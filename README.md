@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/abhinav0223/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinav0223/Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/abhinav0223/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/abhinav0223/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/abhinav0223/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/abhinav0223/Leetcode/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/abhinav0223/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinav0223/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/abhinav0223/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhinav0223/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhinav0223/Leetcode/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/abhinav0223/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhinav0223/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhinav0223/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/abhinav0223/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/abhinav0223/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/abhinav0223/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/abhinav0223/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
