@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhinav0223/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2784-check-if-array-is-good](https://github.com/abhinav0223/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/abhinav0223/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhinav0223/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhinav0223/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/abhinav0223/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2784-check-if-array-is-good](https://github.com/abhinav0223/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/abhinav0223/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/abhinav0223/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhinav0223/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
