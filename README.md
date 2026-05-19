@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/abhinav0223/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhinav0223/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/abhinav0223/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1861-rotating-the-box](https://github.com/abhinav0223/Leetcode/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/abhinav0223/Leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/abhinav0223/Leetcode/tree/master/2540-minimum-common-value) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhinav0223/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhinav0223/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2540-minimum-common-value](https://github.com/abhinav0223/Leetcode/tree/master/2540-minimum-common-value) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/abhinav0223/Leetcode/tree/master/3453-separate-squares-i) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2429-design-a-food-rating-system](https://github.com/abhinav0223/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2540-minimum-common-value](https://github.com/abhinav0223/Leetcode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/abhinav0223/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
