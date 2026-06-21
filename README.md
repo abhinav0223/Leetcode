@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhinav0223/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abhinav0223/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/abhinav0223/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhinav0223/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/abhinav0223/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1382-balance-a-binary-search-tree](https://github.com/abhinav0223/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhinav0223/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhinav0223/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/abhinav0223/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1262-greatest-sum-divisible-by-three](https://github.com/abhinav0223/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhinav0223/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/abhinav0223/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/abhinav0223/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1017,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abhinav0223/Leetcode/tree/master/0948-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/abhinav0223/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Graph
 |  |
 | ------- |
