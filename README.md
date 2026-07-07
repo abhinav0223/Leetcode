@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/abhinav0223/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhinav0223/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhinav0223/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhinav0223/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav0223/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhinav0223/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
