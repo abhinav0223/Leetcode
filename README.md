@@ -601,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhinav0223/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/abhinav0223/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhinav0223/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhinav0223/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/abhinav0223/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhinav0223/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Divide and Conquer
@@ -689,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/abhinav0223/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinav0223/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhinav0223/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/abhinav0223/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhinav0223/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3546-equal-sum-grid-partition-i](https://github.com/abhinav0223/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinav0223/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhinav0223/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhinav0223/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
