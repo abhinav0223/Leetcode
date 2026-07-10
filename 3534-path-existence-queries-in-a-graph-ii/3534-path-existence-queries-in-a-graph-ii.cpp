@@ -18,13 +18,12 @@ public:
             if (sortedNums[i] - sortedNums[i-1] > maxDiff) c++;
             comp[i] = c;
         }
-        
-        // farthest[i] = furthest index reachable in one hop from i (rightward)
+    
         vector<int> nxt(n);
         for (int i = 0; i < n; i++) {
             nxt[i] = upper_bound(sortedNums.begin(), sortedNums.end(), sortedNums[i] + maxDiff) - sortedNums.begin() - 1;
         }
-        // make it monotonic (prefix max) so nxt[i] is furthest reachable considering all j<=i in same expanding front too
+        
         for (int i = 1; i < n; i++) nxt[i] = max(nxt[i], nxt[i-1]);
         
         int LOG = 1;
@@ -56,7 +55,7 @@ public:
                     steps += (1 << k);
                 }
             }
-            steps++; // final hop covers pv since nxt[cur] >= pv now
+            steps++; 
             ans[qi] = steps;
         }
         
