@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/abhinav0223/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/abhinav0223/Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinav0223/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/abhinav0223/Leetcode/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhinav0223/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhinav0223/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/abhinav0223/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinav0223/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/abhinav0223/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhinav0223/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/abhinav0223/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/abhinav0223/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/abhinav0223/Leetcode/tree/master/3321-type-of-triangle) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinav0223/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3462-vowels-game-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhinav0223/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/abhinav0223/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/abhinav0223/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Design
 |  |
