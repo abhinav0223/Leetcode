@@ -1,7 +1,7 @@
 class Solution {
 public:
     int uniqueXorTriplets(vector<int>& nums) {
-        const int MAXV = 2048; 
+        const int MAXV = 2049; 
         vector<bool> present(MAXV, false);
         for (int v : nums) present[v] = true;
 
