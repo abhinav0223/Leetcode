@@ -13,7 +13,6 @@ public:
         if (mid != -1) res += char('a' + mid);
         string rev = half;
         reverse(rev.begin(), rev.end());
-        res += rev;
-        return res;
-    }
+        res +=rev;
+        return res;    }
 };
