@@ -4,7 +4,7 @@ public:
         int mn = *min_element(nums.begin(), nums.end());
         int mx = *max_element(nums.begin(), nums.end());
         
-        unordered_set<int> present(nums.begin(), nums.end());
+        unordered_set<int> present(nums.begin(),nums.end());
         
         vector<int> result;
         for (int i = mn; i <= mx; i++) {
