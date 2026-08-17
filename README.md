@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/abhinav0223/Leetcode/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/abhinav0223/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/abhinav0223/Leetcode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/abhinav0223/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/abhinav0223/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/abhinav0223/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1406-stone-game-iii](https://github.com/abhinav0223/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhinav0223/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhinav0223/Leetcode/tree/master/1563-stone-game-v) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/abhinav0223/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/abhinav0223/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/abhinav0223/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/abhinav0223/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1510-stone-game-iv](https://github.com/abhinav0223/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhinav0223/Leetcode/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/abhinav0223/Leetcode/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/abhinav0223/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/abhinav0223/Leetcode/tree/master/1642-water-bottles) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1140-stone-game-ii](https://github.com/abhinav0223/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/abhinav0223/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/abhinav0223/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/abhinav0223/Leetcode/tree/master/1563-stone-game-v) |
 | [3462-vowels-game-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Linked List
 |  |
