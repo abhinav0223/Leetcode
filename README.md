@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3453-separate-squares-i](https://github.com/abhinav0223/Leetcode/tree/master/3453-separate-squares-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/abhinav0223/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/abhinav0223/Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhinav0223/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/abhinav0223/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/abhinav0223/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhinav0223/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -865,6 +866,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3242-count-elements-with-maximum-frequency](https://github.com/abhinav0223/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/abhinav0223/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/abhinav0223/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/abhinav0223/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/abhinav0223/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/abhinav0223/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhinav0223/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
