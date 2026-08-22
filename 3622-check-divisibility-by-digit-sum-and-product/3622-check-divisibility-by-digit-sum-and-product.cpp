@@ -9,6 +9,6 @@ public:
             prod *= d;
             num /= 10;
         }
-        return n % (prod+sum) == 0;
+        return n % (sum+prod) == 0;
     }
 };
