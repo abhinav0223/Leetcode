@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/abhinav0223/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/abhinav0223/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/abhinav0223/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/abhinav0223/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3612-process-string-with-special-operations-i](https://github.com/abhinav0223/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinav0223/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/abhinav0223/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3797-design-spreadsheet](https://github.com/abhinav0223/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/abhinav0223/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/abhinav0223/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/abhinav0223/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinav0223/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/abhinav0223/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3713-longest-balanced-substring-i](https://github.com/abhinav0223/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhinav0223/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/abhinav0223/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/abhinav0223/Leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/abhinav0223/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/abhinav0223/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1020,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/abhinav0223/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/abhinav0223/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/abhinav0223/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/abhinav0223/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
