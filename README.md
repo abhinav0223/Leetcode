@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhinav0223/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/abhinav0223/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1732-find-the-highest-altitude](https://github.com/abhinav0223/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinav0223/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav0223/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/abhinav0223/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhinav0223/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinav0223/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhinav0223/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/abhinav0223/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -877,6 +879,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/abhinav0223/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/abhinav0223/Leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/abhinav0223/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/abhinav0223/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2107-find-unique-binary-string](https://github.com/abhinav0223/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhinav0223/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
