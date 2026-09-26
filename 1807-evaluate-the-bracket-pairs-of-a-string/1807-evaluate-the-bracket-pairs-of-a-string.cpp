@@ -23,7 +23,7 @@ public:
                 }
                 i = j + 1;
             } else {
-                result += s[i];
+             result  += s[i];
                 i++;
             }
         }
