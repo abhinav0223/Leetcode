@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhinav0223/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhinav0223/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/abhinav0223/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhinav0223/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/abhinav0223/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/abhinav0223/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/abhinav0223/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/abhinav0223/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhinav0223/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/abhinav0223/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/abhinav0223/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhinav0223/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1021,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/abhinav0223/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/abhinav0223/Leetcode/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/abhinav0223/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhinav0223/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/abhinav0223/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhinav0223/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1261,4 +1264,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/abhinav0223/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhinav0223/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhinav0223/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
