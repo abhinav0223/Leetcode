@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/abhinav0223/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhinav0223/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/abhinav0223/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/abhinav0223/Leetcode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/abhinav0223/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -1052,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1291-sequential-digits](https://github.com/abhinav0223/Leetcode/tree/master/1291-sequential-digits) |
 | [2215-finding-3-digit-even-numbers](https://github.com/abhinav0223/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/abhinav0223/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/abhinav0223/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/abhinav0223/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/abhinav0223/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
