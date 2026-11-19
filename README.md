@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/abhinav0223/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/abhinav0223/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/abhinav0223/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhinav0223/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/abhinav0223/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/abhinav0223/Leetcode/tree/master/2615-sum-of-distances) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/abhinav0223/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/abhinav0223/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhinav0223/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/abhinav0223/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/abhinav0223/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/abhinav0223/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/abhinav0223/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2463-minimum-total-distance-traveled](https://github.com/abhinav0223/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2479-meeting-rooms-iii](https://github.com/abhinav0223/Leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/abhinav0223/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/abhinav0223/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/abhinav0223/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/abhinav0223/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
